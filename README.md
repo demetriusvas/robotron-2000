@@ -5,6 +5,10 @@
 
 :heavy_check_mark: Javascript para Web
 
+* Desenvolvemos os primeiros passos do projeto Robotron 2000;
+* Definimos o que é o DOM;
+* Aprendemos como manipular elementos no DOM.
+
 :heavy_check_mark: Interagindo com uma página
 
 :heavy_check_mark: Montando uma peça

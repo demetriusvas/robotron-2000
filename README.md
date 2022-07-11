@@ -11,6 +11,11 @@
 
 :heavy_check_mark: Interagindo com uma página
 
+* Aprendemos a selecionar um ou mais elementos com querySelector()/querySelectorAll();
+* Aprendemos como utilizar o método addEventListener();
+* Definimos as diferenças entre função anônima e função;
+* Entendemos o comportamento de hoisting no JavaScript;
+
 :heavy_check_mark: Montando uma peça
 
 :heavy_check_mark: Montando um robo

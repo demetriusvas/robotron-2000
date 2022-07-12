@@ -18,6 +18,10 @@
 
 :heavy_check_mark: Montando uma peça
 
+* Definimos o que é Array e como manipular seus objetos;
+* Como utilizar arrow functions;
+* Como utilizar o método splice() para remover itens.
+
 :heavy_check_mark: Montando um robo
 
 :heavy_check_mark: Calculando o poder

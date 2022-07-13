@@ -1,6 +1,10 @@
 <h1 align="center">Curso: JavaScript - Manipulando o DOM</h1>
 <h2 align="center">Plataforma: Alura</h2>
 
+Visit - [robotron-2000](https://robotron-2000-nu.vercel.app/)
+
+<img width="960" alt="Imagem do site" src="blob:https://vercel.com/cc0f3e67-9895-4d86-a7e7-abb82dff64ad">
+
 ## 🛠️ O que aprendi nesse curso:
 
 :heavy_check_mark: Javascript para Web

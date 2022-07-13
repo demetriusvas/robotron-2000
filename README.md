@@ -30,6 +30,10 @@
 
 :heavy_check_mark: Calculando o poder
 
+* Definimos o que são objetos e analisamos métodos para manipulá-los;
+* Refatoramos o código do projeto, aprendendo como manipular arrays e utilizando forEach;
+* Aprendemos como aplicar projetos na nuvem utilizando vercel e github.
+
 
 ## Desenvolvedor
 

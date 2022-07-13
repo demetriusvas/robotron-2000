@@ -3,7 +3,7 @@
 
 Visit - [robotron-2000](https://robotron-2000-nu.vercel.app/)
 
-<img width="960" alt="Imagem do site" src="blob:https://vercel.com/cc0f3e67-9895-4d86-a7e7-abb82dff64ad">
+<img width="960" alt="Imagem do site" src="https://github.com/demetriusvas/robotron-2000/blob/77ae8d47575f760ee186c18de86bcb9796d18995/img/screenshot-robotron-2000.png">
 
 ## 🛠️ O que aprendi nesse curso:
 

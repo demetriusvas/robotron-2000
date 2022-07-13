@@ -42,7 +42,7 @@ Visit - [robotron-2000](https://robotron-2000-nu.vercel.app/)
 ## ✅ Linguagens utilizadas 👇
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
